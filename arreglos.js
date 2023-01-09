@@ -1,8 +1,8 @@
 //alert('Hola Mundo');
 //Crear un programa que calucule el numero maximo
-var numero1 = parseInt(prompt ('Ingrese primer número'));
-var numero2 = parseInt(prompt ('Ingrese segundo número'));
-var numero3 = parseInt(prompt("Ingrese tercer numero"));
+var numero1 = parseInt(prompt ('Ingrese primer número por favor'));
+var numero2 = parseInt(prompt ('Ingrese segundo número por favor'));
+var numero3 = parseInt(prompt("Ingrese tercer numero por favor"));
 
 if (numero1>numero2){
     if (numero1>numero3){
